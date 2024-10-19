@@ -4,3 +4,4 @@ Gives Overview of myself and my career path
 - My tech stacks
 - add professional picture
 - link to cv
+- professional colors
