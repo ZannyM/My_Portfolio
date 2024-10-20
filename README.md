@@ -5,3 +5,4 @@ Gives Overview of myself and my career path
 - add professional picture
 - link to cv
 - professional colors
+- fav projects
