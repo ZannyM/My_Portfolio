@@ -6,3 +6,4 @@ Gives Overview of myself and my career path
 - link to cv
 - professional colors
 - fav projects
+Due: 01 Nov 2024
