@@ -7,3 +7,4 @@ Gives Overview of myself and my career path
 - professional colors
 - fav projects
 Due: 01 Nov 2024
+Host on Render.com
