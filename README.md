@@ -1,4 +1,4 @@
-# Zanny Maholobela's Portfolio
+# Zanny Maholobela's Portfolio (INSERT PROFESSIONAL PHOTO)
 Welcome to my personal portfolio website! This project showcases my skills, work experience, and projects as a Software Developer.
 
 Table of Contents
