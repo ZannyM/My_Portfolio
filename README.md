@@ -47,3 +47,4 @@ Visit the website to:
     Get in touch through social media or contact options.
     
 Host on Render.com
+FIX: Javascript implementation
