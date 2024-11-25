@@ -62,7 +62,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: #ff004f;
+    color: #351a1c;
 }
 /* ---------------------------About Section------------------------------- */
 
@@ -315,7 +315,49 @@ form .btn2{
     color: #ff004f;
 }
 
+/* -------------CSS for small screens-------------- */
+nav .fas{
+    display: none;
+}
 
+@media screen and (max-width: 600px){
+    #header{
+        background-image: url(images/Untitled\ design\(2\).png);
+    }
+    .header-text{
+        margin-top: 100%;
+        font-size: 16px;
+    }
+    .header-text h1{
+        font-size: 30px;
+    }
+    nav .fas{
+        display: block;
+        font-size: 25px;
+    }
+    nav ul{
+        background: #351a1c;
+        position: fixed;
+        top: 0;
+        right: -200px;
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+        z-index: 2;
+    }
+    nav ul li{
+        display: block;
+        margin: 25px;
+    }
+    nav ul .fas{
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+
+    }
+    
+}
 
 
 
