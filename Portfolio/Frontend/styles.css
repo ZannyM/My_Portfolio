@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background: #080808;
     color: #fff;
@@ -381,7 +384,11 @@ nav .fas{
     }
 }
 
-
+#msg{
+    color: #ff004f;
+    margin-top: -40px;
+    display: block;
+}
 
 
 
