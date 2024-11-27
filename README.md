@@ -49,3 +49,5 @@ Visit the website to:
 Host on Render.com
 FIX: Javascript implementation
 Deploy 
+### Additional features:
+ # A slideshow of certificates acquired on IBM Skillsbuild
