@@ -45,7 +45,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #351a1c;
+    background: #881a21;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -63,13 +63,13 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: #351a1c;
+    color: #612125;
 }
 /* ---------------------------About Section------------------------------- */
 
 #about{
     padding: 80px 0;
-    color: #4e4d4d;
+    color: #272626;
 }
 .row{
     display: flex;
@@ -107,7 +107,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #351a1c;
+    background: #881a21;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -122,7 +122,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #351a1c;
+    color: #881a21;
     font-size: 14px;
 }
 
