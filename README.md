@@ -27,10 +27,6 @@ Features
     JavaScript : To add interactivity.
     Responsive Design: Ensures compatibility across devices (desktop, tablet, and mobile).
 
-## Color palette
-#
-#
-#
 
 ## Getting Started
 
