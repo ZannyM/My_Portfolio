@@ -54,7 +54,9 @@ Features
 ## 🛠️ Technologies Used
 
     HTML & CSS: For structure and styling.
+    
     JavaScript: To add interactivity and functionality.
+    
     Responsive Design: Ensures the site looks great on desktops, tablets, and mobile devices.
 
 ## Getting Started
@@ -88,5 +90,6 @@ Features
 A big thanks to:
 
     IBM SkillsBuild: For providing learning resources and certifications.
+   
     Render.com: For hosting the live version of this portfolio.
 
