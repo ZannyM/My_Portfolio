@@ -14,7 +14,7 @@
 
 This portfolio website is designed to offer a quick yet comprehensive view of my technical expertise, professional journey, and personal achievements. It is aimed at potential employers, collaborators, and anyone interested in learning about my work.
 
-## 🚀 Features
+## 🚀 Features.
 
     Home Section
         - A concise introduction to my role, specialization, and location.
@@ -45,10 +45,15 @@ This portfolio site is designed to provide a quick and clean overview of my work
 Features
 
     Home Section: Overview of my role, specialization, and location.
+   
     Navigation Bar: Links to home, portfolio, about me, resume, and contact sections.
+  
     About: Summary of myself
+    
     Services showcase: Highlighting selected works with descriptions and images.
+    
     Downloadable CV: Button to download my resume in PDF format.
+   
     Contact Section: Social media links and contact options to reach out.
 
 ## 🛠️ Technologies Used
