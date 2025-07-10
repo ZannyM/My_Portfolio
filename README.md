@@ -1,18 +1,5 @@
 # Zanny Maholobela's Portfolio 🌟
 
-## 📑 Table of Contents
-
-    Overview
-    Features
-    Technologies Used
-    Getting Started
-    Live Demo
-    Future Enhancements
-    Acknowledgments
-    
-## 🌟 Overview
-
-This portfolio website is designed to offer a quick yet comprehensive view of my technical expertise, professional journey, and personal achievements. It is aimed at potential employers, collaborators, and anyone interested in learning about my work.
 
 ## 🚀 Features.
 
